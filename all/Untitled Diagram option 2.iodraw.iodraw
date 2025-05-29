@@ -13,7 +13,7 @@
         <mxCell id="um_AwLQNjRsutv6oO4vV-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;fontColor=default;fontSize=20;" parent="1" source="um_AwLQNjRsutv6oO4vV-2" target="um_AwLQNjRsutv6oO4vV-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="um_AwLQNjRsutv6oO4vV-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;Future Weight checker&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="um_AwLQNjRsutv6oO4vV-2" value="Weight checker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="324" y="286" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="um_AwLQNjRsutv6oO4vV-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;fontColor=default;fontSize=20;" parent="1" source="um_AwLQNjRsutv6oO4vV-20" target="um_AwLQNjRsutv6oO4vV-24" edge="1">
@@ -58,7 +58,7 @@
         <mxCell id="g_cHAQT7hcDdfSIrbBGr-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;fontColor=default;fontSize=20;" parent="1" source="g_cHAQT7hcDdfSIrbBGr-2" target="g_cHAQT7hcDdfSIrbBGr-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g_cHAQT7hcDdfSIrbBGr-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Client&#39;s 2 VFFS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="g_cHAQT7hcDdfSIrbBGr-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Client&#39;s 1 VFFS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="124" y="154" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_cHAQT7hcDdfSIrbBGr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;fontColor=default;fontSize=20;" parent="1" source="g_cHAQT7hcDdfSIrbBGr-4" target="g_cHAQT7hcDdfSIrbBGr-6" edge="1">
